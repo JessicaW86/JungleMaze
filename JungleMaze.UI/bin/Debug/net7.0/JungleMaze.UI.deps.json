@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JungleMaze.UI/1.0.0": {
+        "dependencies": {
+          "JungleMaze.Data": "1.0.0",
+          "JungleMaze.Repository": "1.0.0"
+        },
+        "runtime": {
+          "JungleMaze.UI.dll": {}
+        }
+      },
+      "JungleMaze.Data/1.0.0": {
+        "runtime": {
+          "JungleMaze.Data.dll": {}
+        }
+      },
+      "JungleMaze.Repository/1.0.0": {
+        "dependencies": {
+          "JungleMaze.Data": "1.0.0"
+        },
+        "runtime": {
+          "JungleMaze.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JungleMaze.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JungleMaze.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JungleMaze.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

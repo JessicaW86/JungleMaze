@@ -1,0 +1,15 @@
+C:\Pair_Programing\JungleMaze.Repository\bin\Debug\net7.0\JungleMaze.Repository.deps.json
+C:\Pair_Programing\JungleMaze.Repository\bin\Debug\net7.0\JungleMaze.Repository.dll
+C:\Pair_Programing\JungleMaze.Repository\bin\Debug\net7.0\JungleMaze.Repository.pdb
+C:\Pair_Programing\JungleMaze.Repository\bin\Debug\net7.0\JungleMaze.Data.dll
+C:\Pair_Programing\JungleMaze.Repository\bin\Debug\net7.0\JungleMaze.Data.pdb
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.csproj.AssemblyReference.cache
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.AssemblyInfoInputs.cache
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.AssemblyInfo.cs
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.csproj.CoreCompileInputs.cache
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.csproj.CopyComplete
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.dll
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\refint\JungleMaze.Repository.dll
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\JungleMaze.Repository.pdb
+C:\Pair_Programing\JungleMaze.Repository\obj\Debug\net7.0\ref\JungleMaze.Repository.dll

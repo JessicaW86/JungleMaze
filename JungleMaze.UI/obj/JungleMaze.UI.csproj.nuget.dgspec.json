@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Pair_Programing\\JungleMaze.UI\\JungleMaze.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Pair_Programing\\JungleMaze.Data\\JungleMaze.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pair_Programing\\JungleMaze.Data\\JungleMaze.Data.csproj",
+        "projectName": "JungleMaze.Data",
+        "projectPath": "C:\\Pair_Programing\\JungleMaze.Data\\JungleMaze.Data.csproj",
+        "packagesPath": "C:\\Users\\jdubp\\.nuget\\packages\\",
+        "outputPath": "C:\\Pair_Programing\\JungleMaze.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jdubp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pair_Programing\\JungleMaze.Repository\\JungleMaze.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pair_Programing\\JungleMaze.Repository\\JungleMaze.Repository.csproj",
+        "projectName": "JungleMaze.Repository",
+        "projectPath": "C:\\Pair_Programing\\JungleMaze.Repository\\JungleMaze.Repository.csproj",
+        "packagesPath": "C:\\Users\\jdubp\\.nuget\\packages\\",
+        "outputPath": "C:\\Pair_Programing\\JungleMaze.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jdubp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Pair_Programing\\JungleMaze.Data\\JungleMaze.Data.csproj": {
+                "projectPath": "C:\\Pair_Programing\\JungleMaze.Data\\JungleMaze.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pair_Programing\\JungleMaze.UI\\JungleMaze.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pair_Programing\\JungleMaze.UI\\JungleMaze.UI.csproj",
+        "projectName": "JungleMaze.UI",
+        "projectPath": "C:\\Pair_Programing\\JungleMaze.UI\\JungleMaze.UI.csproj",
+        "packagesPath": "C:\\Users\\jdubp\\.nuget\\packages\\",
+        "outputPath": "C:\\Pair_Programing\\JungleMaze.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jdubp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Pair_Programing\\JungleMaze.Data\\JungleMaze.Data.csproj": {
+                "projectPath": "C:\\Pair_Programing\\JungleMaze.Data\\JungleMaze.Data.csproj"
+              },
+              "C:\\Pair_Programing\\JungleMaze.Repository\\JungleMaze.Repository.csproj": {
+                "projectPath": "C:\\Pair_Programing\\JungleMaze.Repository\\JungleMaze.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

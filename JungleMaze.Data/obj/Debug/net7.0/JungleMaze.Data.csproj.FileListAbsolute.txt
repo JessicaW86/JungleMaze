@@ -1,0 +1,12 @@
+C:\Pair_Programing\JungleMaze.Data\bin\Debug\net7.0\JungleMaze.Data.deps.json
+C:\Pair_Programing\JungleMaze.Data\bin\Debug\net7.0\JungleMaze.Data.dll
+C:\Pair_Programing\JungleMaze.Data\bin\Debug\net7.0\JungleMaze.Data.pdb
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\JungleMaze.Data.csproj.AssemblyReference.cache
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\JungleMaze.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\JungleMaze.Data.AssemblyInfoInputs.cache
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\JungleMaze.Data.AssemblyInfo.cs
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\JungleMaze.Data.csproj.CoreCompileInputs.cache
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\JungleMaze.Data.dll
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\refint\JungleMaze.Data.dll
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\JungleMaze.Data.pdb
+C:\Pair_Programing\JungleMaze.Data\obj\Debug\net7.0\ref\JungleMaze.Data.dll
