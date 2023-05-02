@@ -65,7 +65,7 @@
        }
        public void Seed()
     {
-        Player player1 = new Player("Pete", new List<InGameItem>
+        Player player1 = new Player("BillyBob", new List<InGameItem>
         {
             new InGameItem
             {
